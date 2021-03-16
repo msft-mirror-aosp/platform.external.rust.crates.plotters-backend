@@ -1,0 +1,19 @@
+name: "plotters-backend"
+description: "Plotters Backend API"
+third_party {
+  url {
+    type: HOMEPAGE
+    value: "https://crates.io/crates/plotters-backend"
+  }
+  url {
+    type: ARCHIVE
+    value: "https://static.crates.io/crates/plotters-backend/plotters-backend-0.2.1.crate"
+  }
+  version: "0.2.1"
+  license_type: NOTICE
+  last_upgrade_date {
+    year: 2020
+    month: 12
+    day: 21
+  }
+}
